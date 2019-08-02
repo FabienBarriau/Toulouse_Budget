@@ -6,5 +6,5 @@ trouver le type d'organisme code NAF ou APE.
 Les KPI sont réaliser grâce à QLIK que vous devez installer pour pouvoir lire le QVF.
 
 
-
+![Alt](exemple_KPI.png "renamer app")
 
