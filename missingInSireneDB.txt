@@ -1,0 +1,154 @@
+﻿nomBeneficiaire;type;code;structure
+ADN MP DIGITAL PLACE ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;
+MAISON EMPLOI DE TOULOUSE ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;
+ICF ATLANTIQUE HLM SA;Location de logements;6820A;
+MISSION LOCALE TOULOUSE;Administration publique (tutelle) des activités économiques;8413Z;
+SNI SUD OUEST AGENCE TOULOUSE SA;Location de logements;6820A;
+PREVENTION ROUTIERE ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;
+SNCF RESEAU;Services auxiliaires des transports terrestres;5221Z;
+SAS BIOVA;Analyses, essais et inspections techniques;7120B;
+ORANGE SA;Télécommunications filaires;6110Z;
+SYNDICAT COPRO LES JONQUILLES;Activités combinées de soutien lié aux bâtiments;8110Z;
+SDS LES CASTALIDES JUDICIAIRE;;;
+DICVIE ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;
+CCI TERRASSA;;;
+SYNDICAT FORCE OUVRIERE TM;Activités des syndicats de salariés;9420Z;
+ADIE DROIT A L INITIATIVE ECONOMIQUE ASSOC;Action sociale sans hébergement n.c.a.;8899B;
+CARREFOURS POUR L EMPLOI;Action sociale sans hébergement n.c.a.;8899B;
+COMPAGNIE DES MOBILITES SARL;Programmation informatique;6201Z;
+ANDORRA DESENVOLUPAMENT I INVERSIO;;;
+SEE ELECTRICIEN ELECTRONICIEN ASSOC;Activités des organisations professionnelles;9412Z;
+SYNDICAT INTERCO CFDT MAIRIE TOULOUSE METROPOLE;Activités des syndicats de salariés;9420Z;
+ORGANISATION BUS CYCLISTES;Autres organisations fonctionnant par adhésion volontaire;9499Z;
+GRAPHITI CIRDD MIDI PYRENEES ASSOC;Action sociale sans hébergement n.c.a.;8899B;
+LIGUE DE L ENSEIGNEMENT 31;Autres organisations fonctionnant par adhésion volontaire;9499Z;
+MIDI PYRENEES EXPANSION;Administration publique (tutelle) des activités économiques;8413Z;
+COOP ACTION SARL;Travaux de maçonnerie générale et gros oeuvre de bâtiment;4399C;
+ISSAT ASSOC;;;
+FACE;Restauration de type rapide;5610C;
+CNRS CTRE NAT DE LA RECHERCHE SCIENTIFIQUE;Recherche-développement en autres sciences physiques et naturelles;7219Z;
+ERABLES 31;Autres organisations fonctionnant par adhésion volontaire;9499Z;
+UREI UNION REG ENTREP INSERTION MIDI PYRENEES ASSOC;Activités des organisations professionnelles;9412Z;
+SEM MINT MARCHE GARE TOULOUSE;Administration d'immeubles et autres biens immobiliers;6832A;
+UNIS CITE;Autre accueil ou accompagnement sans hébergement d'enfants et d'adolescents;8899A;
+SYNDICAT COPRO LES PERVENCHES;Activités combinées de soutien lié aux bâtiments;8110Z;
+SAVIM SERVICE AIDE AUX VICTIMES D INFORMATION DE MEDIATION ASSOC;;;
+BIOMEDICAL ALLIANCE ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;
+CCI ZARAGOZA;;;
+CNES CENTRE NATIONAL D ETUDES SPATIALES;Recherche-développement en autres sciences physiques et naturelles;7219Z;
+UNION REG SOCIETES COOPERATIVE DE PRODUCTION ASSOC;Autres activités de soutien aux entreprises n.c.a.;8299Z;
+UCJG UNION CHRET JEUNES GENS ROBERT MONNIER ASSOC;Hébergement social pour adultes et familles en difficultés et autre hébergement social;8790B;
+SM POUR L AMENAGEMENT DE LA FORET BOUCONNE;Gestion d'installations sportives;9311Z;
+SFHE;Location de logements;6820A;
+SYNDICAT UECT UNSA UNION EMPLOYE;Activités des syndicats de salariés;9420Z;
+SYNDICAT SUD CUTM;Activités des syndicats de salariés;9420Z;
+CRESS CHAMBRE REG ECONOMIE SOCIALE ET SOLIDAIRE ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;
+INITIATIVES POUR UNE ECONOMIE SOLIDAIRE - IES - SCIC;Activités des sociétés holding;6420Z;
+EUROPEENNE DU FILM D ANIMATION CARTOON;Organisation de foires, salons professionnels et congrès;8230Z;
+IMO LLEIDA;Activités des marchands de biens immobiliers;6810Z;
+ANAH AGENCE NATIONALE DE L HABITAT;Administration publique (tutelle) des activités économiques;8413Z;
+3F OCCITANIE SA;Location de logements;6820A;
+COMPETENCES PLUS ASSOC;Autre mise à disposition de ressources humaines;7830Z;Association déclarée
+EUROSUD TRANSPORT;Transports routiers de marchandises interurbains;602M;Société à responsabilité limitée
+CA SICOVAL;Administration publique générale ;8411Z;Communauté d'agglomérations
+DO RE MI FA SPORTS;Débits de boissons;5630Z;Société à responsabilité limitée
+NUMERICABLE SAS;Télécommunications filaires;6110Z;Société par actions simplifiée
+ONCOMIP ASSOC;;;
+JENI ASSOC;;;
+SYNDICAT NATIONAL DIRECTEURS GENERAUX COLLECT TERRITORIALES;Activités des syndicats de salariés;9420Z;Association déclarée
+THEATRE ET ORCHESTRE DU CAPITOLE;Gestion de salles de spectacles;9004Z;Etablissement secondaire
+PROMOSALONS SALON SIANE;Commerce de détail de meubles;4759A;Société à responsabilité limitée
+SYNDICAT CGT ORGANISA CUTM;Activités des syndicats de salariés;9420Z;Syndicat de salariés
+SYNDICAT COPRO LES TOURNESOLS;Activités combinées de soutien lié aux bâtiments;8110Z;Syndicat de copropriété
+AGRI SUD OUEST INNOVATION SA;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+ACOUCITE ASSOC;;;
+ASS DEV EPREUV EDUCAT ECO-MOBILITE ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z ;Association déclarée
+GENERATIONS CANDIE ASSOC;;;
+PLANETE SCIENCES OCCITANIE;Autres organisations fonctionnant par adhésion volontair;9499Z;Association déclarée
+SNCF;Transport ferroviaire interurbain de voyageurs ;4910Z;Etablissement public national non doté d'un comptable public
+TRAVAIL DIFFERENT ASSOC;Formation continue d'adultes;8559A;Unités non employeuses
+AVANTI POPOLO ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+INRA INSTITUT NATIONAL RECHERCHE AGRONOMIQUE;Recherche-développement en autres sciences physiques et naturelles;7219Z;Etablissement public national à caractère administratif
+INSTITUT AERO FORMATIONS;Formation continue d'adultes;8559A;Société à responsabilité limitée
+HOLEO DEVELOPPEMENT;Formation continue d'adultes ;8559A;Société coopérative exploitée sous forme de SARL
+IDEES INTERIM;Activités des agences de travail temporaire;7820Z;SARL unipersonnelle
+AAAF GROUPE REGIONAL DE TLSE;Formation continue d'adultes;8559A;Association déclarée
+2 BOUTS ASSOC;;;
+ACDENT GROUPE DE THEATRE EUROPEEN;;;
+CIRQUE DE FEMMES EN TOUT GENRE ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+RESEAU SEMENCES PAYSANNES ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+CEPIERE FORMATION ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+CEA DE GRENOBLE DRT VALO CELISE;;;
+POLE DE COMPETITIVITE EQUESTRE DE LA METROPOLE TOULOUSAINE ASSOC;;;
+RESEAU COCAGNE ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+SYND MIXTE CONSERVATOIRE BOTANIQUE PYRENEEN;Gestion des jardins botaniques et zoologiques et des réserves naturelles;9104Z;Etablissement public syndicat mixte
+TERRITOIRES DE CIRQUE ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+ARESO ASSOC;;;
+CROQUEURS DE CAROTTES ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+DERBI;;;
+HERBES FRAICHES ET FOLLES EN VILLE ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+ROULE MA FRITE 31 ASSOC;Entretien et réparation de véhicules automobiles légers;4520A;Association déclarée
+AIRBUS GROUP SAS;Activités des sièges sociaux;7010Z;Société par actions simplifiée
+ANDES ASS NAT DEVELOP EPICERIES SOLIDAIRES ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+FRANCE NATURE ENVIRONNEMENT ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+PETANIELLE ASSOC;;;
+TERRE DE LIENS MIDI PYRENEES ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+ASF AUTOROUTES SUD DE LA FRANCE SA (VINCI AUTOROUTES);Services auxiliaires des transports terrestres;5221Z;SA à conseil d'administration
+FUB;;;
+TERRE EN VIE 65  ASSOC;;;
+ITINERAIRE INTERNATIONAL ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+CENTRE D ETUDE TERRE D ACCUEIL DES BLES CETAB ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+CANCEROPOLE GRAND SUD OUEST  GIP;Recherche-développement en autres sciences physiques et naturelles;7219Z;Groupement d'intérêt public
+LE PAIN ART ASSOC;Boulangerie et boulangerie-pâtisserie;1071C;Société à responsabilité limitée
+URBANIS SAS;Activités d'architecture;7111Z;Société par actions simplifiée
+ARBRES ET PAYSAGES D AUTAN ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+CONVIVENCIA ASSOC;Arts du spectacle vivant;9001Z;Association déclarée
+FLA-KULTUR;Autres organisations fonctionnant par adhésion volontaire;9499Z;Etablissement secondaire
+TERR EAU CIEL ASSOC;Activités de clubs de sports;9312Z;Association déclarée
+TOULOUSE EN TRANSITION ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+MIGRATEURS GARONNE DORDOGNE ASSOC MIGADO;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+GPT LA GARONNE EUREA SCAM;;;
+CAUSSAT ESPACES VERTS SAS;Services d'aménagement paysager;8130Z;Société par actions simplifiée
+COMPAGNONS BATISSEURS;;;
+LES CHEMINS BUISSONNIERS ASSOC;Arts du spectacle vivant;9001Z;Association déclarée
+FULLSAVE SAS;Conseil en systèmes et logiciels informatiques;6202A;SASU Société par actions simplifiée à associé unique
+SYNDICAT AUTONOME LE GOURDIN FA FPT;Activités des syndicats de salariés;9420Z;Personne morale de droit privé
+4 R CONCEPT SAS;Fabrication de bicyclettes et de véhicules pour invalides;3092Z;Société par actions simplifiée
+3PA ASSOC;Autres enseignements;8559B;Association déclarée
+REGION INTERPROFESSION PORCINE - MIDIPORC - ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+FONCIERE D HABITAT ET HUMANISME SA;Location de logements;6820A;Société en commandite par actions
+TOULOUSE ANDROID USER GROUP;;;
+NATIONALE LE REFUGE ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+SIGFOX SA;Ingénierie, études techniques;7112B;SA à conseil d'administration
+NC NUMERICABLE SASU;Télécommunications filaires;6110Z;SASU Société par actions simplifiée à associé unique
+ROSALIE ECHANGE SOLDARITE ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+CITES UNIES FRANCE ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+RA PARI;;;
+CJD TOULOUSE ASSOC;Activités des organisations professionnelles;9412Z;Association déclarée
+CONSEIL CITOYEN REYNERIE MIRAIL ASSOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+MEDECINS DU MONDE;Action sociale sans hébergement n.c.a.;8899B;Association déclarée
+FEDERATION FRANCAISE D ATHLETISME ASSOC;Activités de clubs de sports;9312Z;Association déclarée
+ECOLE NAT SUP ARCHITECTURE MARNE VALLEE;Enseignement supérieur;8542Z;Etablissement public national d'enseignement
+LES CYCLES HEUREUX ASSO;Action sociale sans hébergement n.c.a.;8899B;Association déclarée
+SOLAFRIKA;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+CENTRE DE CRISE ET DE SOUTIEN;Affaires étrangères;8421Z;Administration de l'Etat, service central d'un ministère
+AQUIFLOR;Commerce de gros (commerce interentreprises) de fleurs et plantes;4622Z;SA à conseil d'administration
+COMPAGNIE ANNE MA SOEUR ANNE;Arts du spectacle vivant;9001Z;Association déclarée
+CONSEIL CITOYEN DES BARRADELS;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+FEDERATION DES ENTREPRISES D INSERTION LANGUEDOC;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+FEDERATION NATIONALE DES ASSOCIATIONS D ACCUEIL - FNARS;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+PARTICIP ACTION;Recherche-développement en sciences humaines et sociales;7220Z;Association déclarée
+FONDATION PARTENARIALE I2ML;;;
+EPIDE;;;
+ASSOCIATION GENERALE DES PRODUCTEURS DE MAIS;Activités des organisations patronales et consulaires;9411Z;Association déclarée
+DIRE;;;
+SOLIDARITES INTERNATIONAL;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
+WWF FRANCE;Autres organisations fonctionnant par adhésion volontaire;9499Z;Fondation
+AGENCE DEVELOPPEMENT COMMUNAL VILLE ST LOUIS;;;
+APOIRC ASSOC;Arts du spectacle vivant;9001Z;Association déclarée
+CANALART;Arts du spectacle vivant;9001Z;Association déclarée
+ENTREPRISE JEAN LATOUR SAS;Travaux de peinture et vitrerie;4334Z;Société par actions simplifiée
+RESIDENCES SOCIALES DE FRANCE 3F;Location de terrains et d'autres biens immobiliers;6820B;SA de HLM à conseil d'administration
+FONDATION ETUDIANTE POUR LA VILLE;;;
+EXTRA;Ingénierie, études techniques;7112B;
+HAMAP;Autres organisations fonctionnant par adhésion volontaire;9499Z;Association déclarée
